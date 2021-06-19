@@ -18,7 +18,7 @@ In case when the user-entered product was not co-purchased with any product (co-
  program recommends the most popular product(s), i.e. the product(s) that that have been purchased by more customers than any other product.
 The display of recommended products uses information from the product data (prod.csv) and follows the format illustrated in the sample interaction.
 
-![Alt text](py.png)
+![Project](py.PNG)
 
 
 
